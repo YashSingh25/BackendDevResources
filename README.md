@@ -20,6 +20,7 @@ Happy Learning Fellas!
   - [Java](#java)
   - [Rust](#rust)
   - [Golang](#golang)
+  - [Kotlin](#kotlin)
   
 - [Frameworks](#frameworks)
   - [Spring (Java)](#spring)
@@ -125,6 +126,10 @@ Pick any one programming language (of your choice):
  ### Golang
 - [Golang](link-to-golang-resources)
   - [Basics](link-to-golang-resources)
+ 
+### Kotlin
+- [Kotlin](https://www.youtube.com/watch?v=EExSSotojVI&pp=ygUPa290bGluIHR1dG9yaWFs)
+  - [Basics](https://www.w3schools.com/KOTLIN/index.php)
 
 ## Frameworks
 
